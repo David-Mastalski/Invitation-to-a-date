@@ -60,3 +60,9 @@ service cloud.firestore {
   }
 }
 ```
+
+### Starting the Application
+ 
+```bash
+npm run dev
+```
