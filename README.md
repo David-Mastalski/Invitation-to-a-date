@@ -21,6 +21,14 @@ An interactive web application designed as a date invitation — instead of a re
 | Layer | Technology |
 |---|---|
 | Frontend | React.js |
-| Stylowanie | Tailwind CSS |
-| Baza danych | Firebase Firestore |
+| Styling | Tailwind CSS |
+| Database | Firebase Firestore |
 | Build tool | Vite |
+
+### Installation
+ 
+```bash
+git clone https://github.com/twoj-login/nazwa-repo.git
+cd nazwa-repo
+npm install
+```
