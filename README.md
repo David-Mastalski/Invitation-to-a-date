@@ -1,6 +1,6 @@
 # Cute Invitation to a date
 
-Interaktywna aplikacja webowa w formie zaproszenia na randkę — zamiast zwykłej wiadomości, odbiorca przechodzi przez serię animowanych ekranów, wypełnia formularz z preferowanymi datami i wybiera prezent, a odpowiedź trafia bezpośrednio do bazy danych, gdzie można ją podejrzeć w panelu administracyjnym.
+An interactive web application designed as a date invitation — instead of a regular message, the recipient goes through a series of animated screens, fills out a form with their preferred dates, and selects a gift, with the response sent directly to a database where it can be viewed in an admin panel.
 
 ![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
