@@ -8,11 +8,11 @@
 An interactive web application designed as a date invitation — instead of a regular message, the recipient goes through a series of animated screens, fills out a form with their preferred dates, and selects a gift, with the response sent directly to a database where it can be viewed in an admin panel.
 
 ## Features
-- 5 interactive views leading the user through the entire process — from the initial question, through confirmation, date selection form, gift choice, to the final screen
-- "No" button that responds to cursor movement — smoothly dodges across the screen, making it impossible to click
-- Form with date validation — fields for selecting arrival and departure dates; the next step unlocks only after correct completion
-- Gift selection — a set of selectable tiles, including an intentionally locked option
-- Real-time response saving to Firebase Firestore
-- Admin panel — a separate view that fetches and displays stored data directly from the database, eliminating the need to check the Firebase console
-- Smooth animations and transitions between steps, accompanied by subtle background effects (floating hearts)
-- Fully responsive design optimized for mobile devices
+- **5 interactive views** leading the user through the entire process — from the initial question, through confirmation, date selection form, gift choice, to the final screen
+- **"No" button that responds to cursor movement** — smoothly dodges across the screen, making it impossible to click
+- **Form with date validation** — fields for selecting arrival and departure dates; the next step unlocks only after correct completion
+- **Gift selection** — a set of selectable tiles, including an intentionally locked option
+- **Real-time response saving** to Firebase Firestore
+- **Admin panel** — a separate view that fetches and displays stored data directly from the database, eliminating the need to check the Firebase console
+- **Smooth animations and transitions** between steps, accompanied by subtle background effects (floating hearts)
+- **Fully responsive design** optimized for mobile devices
