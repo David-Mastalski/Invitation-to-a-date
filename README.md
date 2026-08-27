@@ -66,3 +66,5 @@ service cloud.firestore {
 ```bash
 npm run dev
 ```
+
+<img src="https://github.com/David-Mastalski/Invitation-to-a-date/blob/main/preview/preview.gif" alt="Invitation to a date preview" width="100%">
