@@ -36,7 +36,7 @@ Saved responses can be viewed without checking the Firebase console — the admi
  
 ```bash
 git clone https://github.com/David-Mastalski/Invitation-to-a-date.git
-cd nazwa-repo
+cd repo-name
 npm install
 ```
 
