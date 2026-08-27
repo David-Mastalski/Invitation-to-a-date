@@ -16,3 +16,11 @@ An interactive web application designed as a date invitation — instead of a re
 - **Admin panel** — a separate view that fetches and displays stored data directly from the database, eliminating the need to check the Firebase console
 - **Smooth animations and transitions** between steps, accompanied by subtle background effects (floating hearts)
 - **Fully responsive design** optimized for mobile devices
+
+##  Stack
+| Layer | Technology |
+|---|---|
+| Frontend | React.js |
+| Stylowanie | Tailwind CSS |
+| Baza danych | Firebase Firestore |
+| Build tool | Vite |
