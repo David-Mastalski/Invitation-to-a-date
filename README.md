@@ -28,7 +28,11 @@ An interactive web application designed as a date invitation — instead of a re
 ### Installation
  
 ```bash
-git clone https://github.com/twoj-login/nazwa-repo.git
+git clone https://github.com/David-Mastalski/Invitation-to-a-date.git
 cd nazwa-repo
 npm install
 ```
+
+### Environment Setup
+
+Create a `.env` file in the root directory of the project based on `.env.example` and fill it in with your Firebase project details (Your project → Project settings → Generals):
