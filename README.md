@@ -13,7 +13,7 @@ An interactive web application designed as a date invitation — instead of a re
 - **Form with date validation** — fields for selecting arrival and departure dates; the next step unlocks only after correct completion
 - **Gift selection** — a set of selectable tiles, including an intentionally locked option
 - **Real-time response saving** to Firebase Firestore
-- **Admin panel** — a separate view that fetches and displays stored data directly from the database, eliminating the need to check the Firebase console
+- **Admin panel** — a separate view that fetches and displays stored data directly from the database, eliminating the need to check the Firebase console (available at /?admin)
 - **Smooth animations and transitions** between steps, accompanied by subtle background effects (floating hearts)
 - **Fully responsive design** optimized for mobile devices
 
