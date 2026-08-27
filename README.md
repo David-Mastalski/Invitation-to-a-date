@@ -35,4 +35,4 @@ npm install
 
 ### Environment Setup
 
-Create a `.env` file in the root directory of the project based on `.env.example` and fill it in with your Firebase project details (Your project → Project settings → Generals):
+Create a `.env` file in the root directory of the project based on `.env.example` and fill it in with your Firebase project details (Your project → Project settings → General):
